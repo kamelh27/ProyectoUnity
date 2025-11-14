@@ -6,11 +6,12 @@ TagManager:
   tags:
   - CinemachineTarget
   - Pelota
+  - PlayerWeapon
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Enemy
   - Water
   - UI
   - 
